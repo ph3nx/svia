@@ -38,7 +38,7 @@ function updateData() {
 	pitch=panorama.getPov().pitch;
 	zoom=panorama.getPov().zoom;
 	var fov = 90/Math.max(1,zoom);
-	url = "http://maps.googleapis.com/maps/api/streetview?location=" + lat + "," + lng + "&heading=" + heading + "&fov=" +fov + "&pitch=" + pitch + "&size=" + size + "&sensor=false&key=AIzaSyB4ySzywEE9iDugTQR0mKHs0rh4WUBtf1U";
+	url = "https://maps.googleapis.com/maps/api/streetview?location=" + lat + "," + lng + "&heading=" + heading + "&fov=" +fov + "&pitch=" + pitch + "&size=" + size + "&sensor=false&key=AIzaSyAddKISka7KEjI2WRH_kC9wNbAcEIoRcg8";
 
 	str = "<b> Lattitude:</b> "+lat+"<br>";	
 	str +="<b> Longitude:</b> "+lng +"<br>";

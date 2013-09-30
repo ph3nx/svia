@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="main.css">
-	<script src="http://maps.google.com/maps/api/js?sensor=false&amp;libraries=places&amp;key=AIzaSyAgWxCQQEyFmtlYqudOYa5u5FfAARx_u9A"></script>
+	<script src="https://maps.google.com/maps/api/js?sensor=false&amp;libraries=places"></script>
 	<script src="https://apis.google.com/js/client.js"></script>
 	<script src="main.js"></script>
 </head>
