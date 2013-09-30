@@ -31,7 +31,7 @@ function initialize() {
 }
 
 function updateData() {
-	size="600x600";
+	size="640x640";
 	lat =panorama.getPosition().lat();
 	lng =panorama.getPosition().lng();
 	heading= panorama.getPov().heading;

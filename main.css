@@ -21,12 +21,8 @@ body {
 	position: absolute;
 	right: 1px;
 	top: 1px;
-	width: auto;
-	height: auto;
-	margin-right: 0;
-	/*border: 2px solid #000;*/
+	margin: 10px;
 	z-index: 1;
-	padding: 10px;
 	color: #fff;
 	text-shadow: 1px 1px 2px #000;
 	font-size: 18px;
